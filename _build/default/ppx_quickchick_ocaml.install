@@ -1,0 +1,19 @@
+lib: [
+  "_build/install/default/lib/ppx_quickchick_ocaml/META"
+  "_build/install/default/lib/ppx_quickchick_ocaml/dune-package"
+  "_build/install/default/lib/ppx_quickchick_ocaml/opam"
+  "_build/install/default/lib/ppx_quickchick_ocaml/ppx_quickchick_ocaml.a"
+  "_build/install/default/lib/ppx_quickchick_ocaml/ppx_quickchick_ocaml.cma"
+  "_build/install/default/lib/ppx_quickchick_ocaml/ppx_quickchick_ocaml.cmi"
+  "_build/install/default/lib/ppx_quickchick_ocaml/ppx_quickchick_ocaml.cmt"
+  "_build/install/default/lib/ppx_quickchick_ocaml/ppx_quickchick_ocaml.cmx"
+  "_build/install/default/lib/ppx_quickchick_ocaml/ppx_quickchick_ocaml.cmxa"
+  "_build/install/default/lib/ppx_quickchick_ocaml/ppx_quickchick_ocaml.ml"
+]
+libexec: [
+  "_build/install/default/lib/ppx_quickchick_ocaml/ppx.exe"
+  "_build/install/default/lib/ppx_quickchick_ocaml/ppx_quickchick_ocaml.cmxs"
+]
+bin: [
+  "_build/install/default/bin/ppx_quickchick_ocaml"
+]

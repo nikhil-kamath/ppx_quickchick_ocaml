@@ -1,0 +1,7 @@
+(library
+ (name ppx_quickchick_ocaml)
+ (public_name ppx_quickchick_ocaml)
+ (kind ppx_rewriter)
+ (libraries core ppxlib)
+ (preprocess
+  (pps ppxlib.metaquot)))
